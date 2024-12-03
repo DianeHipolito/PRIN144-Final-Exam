@@ -3,9 +3,9 @@ const {sql}= require('@vercel/postgres')
 const express = require('express')
 const app = express();
 
-const fs = require('fs')
-const swaggerUi = require('swagger-ui-express');
-const YAML = require('yaml')
+//const fs = require('fs')
+// const swaggerUi = require('swagger-ui-express');
+// const YAML = require('yaml')
 
 app.use(express.json());
 
