@@ -37,7 +37,7 @@ app.get('/', (request, response) => {
         <head>
           <meta charset="UTF-8">
           <meta name="viewport" content="width=device-width, initial-scale=1.0">
-          <title>Demo-07-NodeJS-Express-Routing</title>
+          <title>PRIN144-Final-Exam</title>
           <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
           <style>
             body {
