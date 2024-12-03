@@ -1,5 +1,8 @@
+require('dotenv').config();
 const express = require('express');
+const { sql } = require('@vercel/postgres');
 const app = express();
+module.exports = app;
 
 app.use(express.json());
 
